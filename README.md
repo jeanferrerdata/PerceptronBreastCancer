@@ -27,7 +27,7 @@ Otherwise, you could use the Anaconda environment.
 
 ## Dataset
 
-The dataset used is the Wisconsin Breast Cancer Dataset. Ensure you have the dataset file named `BreastCancerWisconsinDataSet.csv` in your working directory.
+The dataset used is the Wisconsin Breast Cancer Data Set. Ensure you have the dataset file named `BreastCancerWisconsinDataSet.csv` in your working directory.
 
 ## Exploration and Preprocessing
 
