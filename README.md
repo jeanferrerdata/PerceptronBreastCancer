@@ -1,2 +1,2 @@
 # PerceptronBreastCancer
-Breast Cancer Classification with the Perceptron Neural Network
+Breast Cancer Diagnosis with the Perceptron Neural Network
