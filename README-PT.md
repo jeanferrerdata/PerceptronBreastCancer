@@ -38,7 +38,7 @@ Após carregar o conjunto de dados, o projeto realiza uma exploração inicial e
 
 ## Detecção de Outliers
 
-Outliers são verificados usando uma função personalizada para garantir que não haja valores extremos que possam afetar o desempenho da rede neural. Após identificar colunas com muitos zeros, uma nova versão filtrada do conjunto de dados é criada.
+Outliers (valores atípicos) são verificados usando uma função personalizada para garantir que não haja valores extremos que possam afetar o desempenho da rede neural. Após identificar colunas com muitos zeros, uma nova versão filtrada do conjunto de dados é criada.
 
 ## Rede Neural
 
