@@ -1,4 +1,4 @@
-# Diagnostic du Cancer du Sein avec Réseau Neuronal Perceptron
+# Diagnostic du Cancer du Sein avec un Réseau Neuronal Perceptron
 
 Ce projet démontre l'utilisation d'un réseau neuronal Perceptron pour classer les diagnostics de cancer du sein sur la base du Jeu de Données de Cancer du Sein de Wisconsin.
 
