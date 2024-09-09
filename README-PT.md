@@ -1,4 +1,4 @@
-# Diagnóstico de Câncer de Mama com Rede Neural Perceptron
+# Diagnóstico de Câncer de Mama com uma Rede Neural Perceptron
 
 Este projeto demonstra o uso de uma rede neural Perceptron para classificar diagnósticos de câncer de mama com base no Conjunto de Dados de Câncer de Mama de Wisconsin (Diagnóstico).
 
