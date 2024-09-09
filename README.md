@@ -1,4 +1,4 @@
-# Breast Cancer Diagnosis with Perceptron Neural Network
+# Breast Cancer Diagnosis with a Perceptron Neural Network
 
 This project demonstrates the use of a Perceptron neural network to classify breast cancer diagnoses based on the Wisconsin Breast Cancer (Diagnostic) Data Set.
 
